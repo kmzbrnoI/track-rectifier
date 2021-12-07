@@ -19,7 +19,7 @@ U 1 1 61A94E2E
 P 3900 2550
 F 0 "D3" V 3650 2250 50  0000 L CNN
 F 1 "D_Bridge_+-AA" V 3750 1750 50  0000 L CNN
-F 2 "Diode_SMD:Diode_Bridge_Diotec_SO-DIL-Slim" H 3900 2550 50  0001 C CNN
+F 2 "track-voltage:S250" H 3900 2550 50  0001 C CNN
 F 3 "~" H 3900 2550 50  0001 C CNN
 	1    3900 2550
 	0    -1   -1   0   
