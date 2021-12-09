@@ -4,7 +4,7 @@ EELAYER END
 $Descr User 8268 5827
 encoding utf-8
 Sheet 1 1
-Title "Model Track Voltage Detector"
+Title "Model Track Rectifier"
 Date "2021-12-02"
 Rev "1.0"
 Comp "Model Railroader Club Brno I – KMŽ Brno I – https://kmz-brno.cz/"
@@ -19,7 +19,7 @@ U 1 1 61A94E2E
 P 3900 2550
 F 0 "D3" V 3650 2250 50  0000 L CNN
 F 1 "S250" V 3750 2150 50  0000 L CNN
-F 2 "track-voltage:S250" H 3900 2550 50  0001 C CNN
+F 2 "track-rectifier:S250" H 3900 2550 50  0001 C CNN
 F 3 "~" H 3900 2550 50  0001 C CNN
 	1    3900 2550
 	0    -1   -1   0   
@@ -244,7 +244,7 @@ U 1 1 61ABA3D2
 P 6350 2250
 F 0 "J2" H 6378 2276 50  0000 L CNN
 F 1 "MPB1" H 6378 2185 50  0000 L CNN
-F 2 "track-voltage:MPB1" H 6350 2250 50  0001 C CNN
+F 2 "track-rectifier:MPB1" H 6350 2250 50  0001 C CNN
 F 3 "~" H 6350 2250 50  0001 C CNN
 	1    6350 2250
 	1    0    0    -1  
@@ -255,7 +255,7 @@ U 1 1 61ABAC0B
 P 6350 2850
 F 0 "J5" H 6378 2876 50  0000 L CNN
 F 1 "MPB1" H 6378 2785 50  0000 L CNN
-F 2 "track-voltage:MPB1" H 6350 2850 50  0001 C CNN
+F 2 "track-rectifier:MPB1" H 6350 2850 50  0001 C CNN
 F 3 "~" H 6350 2850 50  0001 C CNN
 	1    6350 2850
 	1    0    0    -1  

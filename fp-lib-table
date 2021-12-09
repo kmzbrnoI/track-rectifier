@@ -1,3 +1,3 @@
 (fp_lib_table
-  (lib (name track-voltage)(type KiCad)(uri ${KIPRJMOD}/track-voltage.pretty)(options "")(descr ""))
+  (lib (name track-rectifier)(type KiCad)(uri ${KIPRJMOD}/track-rectifier.pretty)(options "")(descr ""))
 )

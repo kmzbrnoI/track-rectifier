@@ -116,7 +116,7 @@
     (add_net VCC)
   )
 
-  (module track-voltage:MPB1 (layer F.Cu) (tedit 61AFB4BD) (tstamp 61B01FB8)
+  (module track-rectifier:MPB1 (layer F.Cu) (tedit 61AFB4BD) (tstamp 61B01FB8)
     (at 172.72 91.44 90)
     (path /61ABAC0B)
     (fp_text reference J5 (at 5.334 3.302 90) (layer F.SilkS)
@@ -173,7 +173,7 @@
       (net 6 /K) (zone_connect 2))
   )
 
-  (module track-voltage:MPB1 (layer F.Cu) (tedit 61AFB4BD) (tstamp 61B0218F)
+  (module track-rectifier:MPB1 (layer F.Cu) (tedit 61AFB4BD) (tstamp 61B0218F)
     (at 192.405 91.44 90)
     (path /61ABA3D2)
     (fp_text reference J2 (at 5.334 -3.048 90) (layer F.SilkS)
@@ -230,7 +230,7 @@
       (net 4 /J) (zone_connect 2))
   )
 
-  (module track-voltage:S250 (layer F.Cu) (tedit 61AFB162) (tstamp 61A94308)
+  (module track-rectifier:S250 (layer F.Cu) (tedit 61AFB162) (tstamp 61A94308)
     (at 182.372 102.362 270)
     (path /61A94E2E)
     (fp_text reference D3 (at 0 4.318 180) (layer F.SilkS)
